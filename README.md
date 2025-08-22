@@ -2,7 +2,7 @@
 
 ![Snake animation](https://github.com/helloworlone-del/helloworlone-del/blob/main/github-snake.svg)
 
-Я пишу различные скрипты и небольшие проекты.  
+Я пишу различные скрипты и различные проекты.  
 Люблю автоматизацию и создаю инструменты для упрощения повседневных задач.
 
 ---
