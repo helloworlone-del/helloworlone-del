@@ -7,7 +7,7 @@
 
 ---
 
-## 🤖 Телеграм-боты  
+## 🤖 Телеграм проекты.
 
 🔑 **VPN ключи**  
 [![VPN Bot](https://img.shields.io/badge/VPN%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VTSLYVPN_bot)  
