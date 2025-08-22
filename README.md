@@ -1,4 +1,4 @@
-# 👋 Привет, я helloworlone-del  
+# RED
 
 ![Snake animation](https://github.com/helloworlone-del/helloworlone-del/blob/main/github-snake.svg)
 
@@ -9,11 +9,11 @@
 
 ## 🤖 Телеграм-боты  
 
-- 🔑 Телеграмм бот позволяет получить VPN ключ для безопасного использования интернета 
+  - 🔑 TG BOT позволяет получить VPN ключ для безопасного использования интернета 
 [![Telegram](https://img.shields.io/badge/VPN%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VTSLYVPN_bot)  
 Бот для получения VPN ключей  
 
-- 📥 Загрузчик видео  
+- 📥 TG BOT Загрузчик видео  
 [![Telegram](https://img.shields.io/badge/Save%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vtslysave_bot)  
 Скачивание видео с **TikTok / YouTube / Instagram**
 
