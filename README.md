@@ -9,13 +9,15 @@
 
 ## 🤖 Телеграм-боты  
 
-- 🔑 TG BOT позволяет получить VPN ключ для безопасного использования интернета 
-[![Telegram](https://img.shields.io/badge/VPN%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VTSLYVPN_bot)  
-Бот для получения VPN ключей  
+🔑 **VPN ключи**  
+[![VPN Bot](https://img.shields.io/badge/VPN%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VTSLYVPN_bot)  
+TG BOT позволяет получить VPN ключ для безопасного использования интернета  
 
-- 📥 TG BOT Загрузчик видео  
-[![Telegram](https://img.shields.io/badge/Save%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vtslysave_bot)  
-Скачивание видео с **TikTok / YouTube / Instagram**
+---
+
+📥 **Загрузчик видео**  
+[![Save Bot](https://img.shields.io/badge/Save%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vtslysave_bot)  
+TG BOT для скачивания видео с **TikTok / YouTube / Instagram**
 
 ---
 
